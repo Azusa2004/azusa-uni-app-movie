@@ -1,0 +1,130 @@
+//全局scss
+.flex-at{
+		display: flex;
+		align-items: center;
+}
+.flex-dfj{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	
+}
+.flex-dfjs{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	
+}
+.bottomColor{
+	background-color: #f5f5f5;
+}
+.popularText{
+		width: 691rpx;
+		height: 122rpx;
+		padding: 0 30rpx;
+		justify-content: space-between;
+}
+.popularImg{
+		margin: 0 20rpx;
+		padding:  25rpx 0 25rpx 0;
+		border-radius: 15rpx;
+		display: flex;
+		background-color: white;
+}
+.ellipsis {
+	 overflow: hidden;        /* 隐藏溢出内容 */
+	  white-space: nowrap;     /* 强制不换行 */
+	  text-overflow: ellipsis; /* 显示省略号 */
+	  width: 250rpx;       
+}
+	.welcome{
+		margin-left: 30rpx;
+		display: flex;
+		align-items: center;
+	}
+	.welcomeName{
+		font-size: 36rpx;
+		font-weight: 600;
+		color: white;
+		margin-left: 20rpx;
+		letter-spacing: 3rpx;
+	}
+
+	.hide{
+		overflow: hidden;        
+		 white-space: nowrap; 
+		 text-overflow: ellipsis; 
+	}
+	.header{
+	background-color: #0B193F;	
+	position: sticky;
+	top: 0;
+	z-index: 1;
+	background-image: url(/static/header-bg.png);
+	background-repeat: no-repeat;
+	background-position: top right;
+	background-size: 209rpx 235rpx;
+	}
+	.bottomColor{
+			 padding-bottom: calc(20rpx + env(safe-area-inset-bottom));
+	}
+	
+	
+	
+	
+	.hide{
+		overflow: hidden;        
+		 white-space: nowrap; 
+		 text-overflow: ellipsis; 
+	}
+	.MovieTextMin{
+		font-size: 23rpx;
+		font-weight: 500;
+		color: #8890a3;
+		margin-right: 80rpx;
+	}
+	.MovieHeadD3{
+		max-width: 450rpx;
+		margin-top: 15rpx;
+	}
+	.MovieTextMinD2{
+		
+		font-size: 23rpx;
+		font-weight: 550;
+	}
+	.select{
+			width: 670rpx;
+			height: 96rpx;
+			background-color: #4073ff;
+			border-radius: 16rpx;
+			position: fixed;
+			left: 40rpx;
+			bottom: 50rpx;
+			text-align: center;
+			line-height: 96rpx;
+			font-size: 32rpx;
+			color: white;
+	}
+	.TextMin{
+			 font-size: 24rpx;
+			 color: #8890a3;
+	}
+	.Text-margin{
+			 margin-top: 13rpx;
+			 font-weight: 550;
+	}
+	.view-margin{
+			 margin-top: 40rpx;
+	}
+	
+	.seattag{
+			 width: 50rpx;
+			 height: 30rpx;
+			background-color: #4073ff;
+			border-radius: 10rpx;
+			font-size: 19rpx;
+			color: white;
+			text-align: center;
+			line-height: 30rpx;
+			margin-right: 5rpx;
+	}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "影片",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "navigate": "../../components/navigate/navigate"
+  }
+}

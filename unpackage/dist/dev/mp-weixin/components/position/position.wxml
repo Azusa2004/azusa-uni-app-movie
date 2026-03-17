@@ -1,0 +1,1 @@
+<view bindtap="{{c}}" class="{{['hader', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{d}}"><view class="flex"><image src="{{a}}" mode=""></image><text style="margin-left:15px">成都</text></view><view class="flex"><image src="{{b}}" mode="" style="width:25rpx;height:20rpx"></image></view></view>

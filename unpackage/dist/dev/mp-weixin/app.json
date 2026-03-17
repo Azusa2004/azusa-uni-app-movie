@@ -1,0 +1,84 @@
+{
+  "pages": [
+    "pages/header/header",
+    "pages/mall/mall",
+    "pages/movie/movie",
+    "pages/my/my"
+  ],
+  "subPackages": [
+    {
+      "root": "headerPackage",
+      "pages": [
+        "headerMovei/headerMovei",
+        "headerMovei/queueMovie",
+        "headerMovei/introduction",
+        "screenMovei/screenMovei",
+        "hotMovie/hotMovie",
+        "mapMovie/mapMovie"
+      ]
+    },
+    {
+      "root": "MoviePackage",
+      "pages": [
+        "cinemaDetails/cinemaDetails",
+        "cinemaSelect/cinemaSelect",
+        "cinemaPay/cinemaPay",
+        "cinemaSuccess/cinemaSuccess"
+      ]
+    },
+    {
+      "root": "myPackage",
+      "pages": [
+        "register/register",
+        "modifyUser/modifyUser",
+        "Login/Login",
+        "registerD2/registerD2"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#0b193f",
+    "backgroundColor": "#0b193f"
+  },
+  "tabBar": {
+    "selectedColor": "#2D3164",
+    "color": "#b6bac5",
+    "list": [
+      {
+        "pagePath": "pages/header/header",
+        "text": "首页",
+        "iconPath": "/static/home.png",
+        "selectedIconPath": "/static/home-ac.png"
+      },
+      {
+        "pagePath": "pages/movie/movie",
+        "text": "影院",
+        "iconPath": "/static/building.png",
+        "selectedIconPath": "/static/building-ac.png"
+      },
+      {
+        "pagePath": "pages/mall/mall",
+        "text": "影片",
+        "iconPath": "/static/film.png",
+        "selectedIconPath": "/static/film-ac.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "/static/myInfo.png",
+        "selectedIconPath": "/static/myInfo-ac.png"
+      }
+    ]
+  },
+  "runmode": "liberate",
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取用户地理位置"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation"
+  ],
+  "usingComponents": {}
+}

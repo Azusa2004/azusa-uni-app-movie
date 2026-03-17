@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "up-loadmore": "../../uni_modules/uview-plus/components/u-loadmore/u-loadmore"
+  }
+}

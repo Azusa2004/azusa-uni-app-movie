@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "up-loading-icon": "../../uni_modules/uview-plus/components/u-loading-icon/u-loading-icon",
+    "up-popup": "../../uni_modules/uview-plus/components/u-popup/u-popup"
+  }
+}

@@ -1,0 +1,29 @@
+
+.header3{
+		height: 13.4375rem;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+}
+.userNameimg{
+		display: flex;
+		flex-direction: column;
+}
+.userName{
+		font-size: 1.0625rem;
+		color: white;
+		text-align: center;
+		margin-top: 0.9375rem;
+}
+.catalogue{
+		height: 3.75rem;
+		margin: 0 1.09375rem;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		border-bottom: 0.0625rem solid #ccc;
+}
+.catalogueImg{
+		width: 1.4375rem;
+		height: 1.4375rem;
+}

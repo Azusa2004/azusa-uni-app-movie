@@ -1,0 +1,1 @@
+<view wx:if="{{a}}" bindtap="{{c}}" class="{{['error-toast', 'data-v-5d1b555f', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{d}}"><view class="error-content data-v-5d1b555f"><text class="error-text data-v-5d1b555f">{{b}}</text></view></view>

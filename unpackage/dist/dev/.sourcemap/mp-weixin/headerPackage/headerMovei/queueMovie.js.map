@@ -1,0 +1,1 @@
+{"version":3,"file":"queueMovie.js","sources":["../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/aGVhZGVyUGFja2FnZVxoZWFkZXJNb3ZlaVxxdWV1ZU1vdmllLnZ1ZQ"],"sourcesContent":["import MiniProgramPage from 'E:/XCX/Movie-uniApp/headerPackage/headerMovei/queueMovie.vue'\nwx.createPage(MiniProgramPage)"],"names":["MiniProgramPage"],"mappings":";;AACA,GAAG,WAAWA,WAAe,eAAA;"}

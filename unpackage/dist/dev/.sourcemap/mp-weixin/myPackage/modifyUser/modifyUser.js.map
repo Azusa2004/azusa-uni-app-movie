@@ -1,0 +1,1 @@
+{"version":3,"file":"modifyUser.js","sources":["../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/bXlQYWNrYWdlXG1vZGlmeVVzZXJcbW9kaWZ5VXNlci52dWU"],"sourcesContent":["import MiniProgramPage from 'E:/XCX/Movie-uniApp/myPackage/modifyUser/modifyUser.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "电影详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "navigate": "../../components/navigate/navigate",
+    "queue-movie": "./queueMovie",
+    "introduction": "./introduction"
+  }
+}

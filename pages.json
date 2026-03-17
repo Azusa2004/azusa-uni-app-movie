@@ -1,0 +1,180 @@
+{
+	"easycom": {
+	        "autoscan": true,
+	        // 注意一定要放在custom里，否则无效，https://ask.dcloud.net.cn/question/131175
+	        "custom": {
+	            "^u--(.*)": "@/uni_modules/uview-plus/components/u-$1/u-$1.vue",
+	            "^up-(.*)": "@/uni_modules/uview-plus/components/u-$1/u-$1.vue",
+	        "^u-([^-].*)": "@/uni_modules/uview-plus/components/u-$1/u-$1.vue"
+	        }
+	    },
+	
+	
+	
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/header/header",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mall/mall",
+			"style": {
+				"navigationBarTitleText": "影片",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/movie/movie",
+			"style": {
+				"navigationBarTitleText": "影院",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarBackgroundColor": "#0b193f",
+		"backgroundColor": "#0b193f"
+	},
+	
+	
+	"tabBar": {
+		"selectedColor": "#2D3164",
+		"color": "#b6bac5",
+		"list": [
+			{
+				"pagePath": "pages/header/header",
+				"text": "首页",
+				"iconPath": "/static/home.png",
+				"selectedIconPath": "/static/home-ac.png"
+			},
+			{
+				"pagePath": "pages/movie/movie",
+				"text": "影院",
+				"iconPath": "/static/building.png",
+				"selectedIconPath": "/static/building-ac.png"
+			},
+			{
+				"pagePath": "pages/mall/mall",
+				"text": "影片",
+				"iconPath": "/static/film.png",
+				"selectedIconPath": "/static/film-ac.png"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"text": "我的",
+				"iconPath": "/static/myInfo.png",
+				"selectedIconPath": "/static/myInfo-ac.png"
+			}
+		]
+	},
+	"uniIdRouter": {},
+	
+	"subPackages":[
+				{
+		            "root": "headerPackage", // 子包根目录名称
+		            // 子包中的每一个页面配置
+		            "pages": [
+						{
+							"path": "headerMovei/headerMovei",
+							"style": {
+								"navigationBarTitleText": "电影详情",
+								"navigationStyle": "custom" 
+							}
+						},
+						{
+							"path": "headerMovei/queueMovie"
+						},
+						{
+							"path": "headerMovei/introduction"
+						},
+						{
+							"path": "screenMovei/screenMovei",
+							"style": {
+								"navigationStyle": "custom"
+							}
+						},
+						{
+							"path": "hotMovie/hotMovie",
+							"style": {
+								"navigationBarTitleText": ""
+							}
+						},
+						{
+							"path": "mapMovie/mapMovie",
+							"style": {
+								"navigationStyle": "custom" 
+							}
+						}
+
+		            ]
+		        },
+				{
+					"root":"MoviePackage",
+					"pages":[
+						{
+							"path":"cinemaDetails/cinemaDetails",
+							"style": {
+								"navigationStyle": "custom" 
+							}
+						},
+						{
+							"path": "cinemaSelect/cinemaSelect",
+							"style": {
+								"navigationStyle": "custom" 
+							}
+						},
+						{
+							"path": "cinemaPay/cinemaPay",
+							"style": {
+								"navigationStyle": "custom"
+							}
+						},
+						{
+							"path": "cinemaSuccess/cinemaSuccess",
+							"style": {
+								"navigationStyle": "custom"
+							}
+						}
+					]
+				},
+				{
+					"root":"myPackage",
+					"pages":[
+						{
+							"path":"register/register",
+							"style": {
+								"navigationStyle": "custom" 
+							}
+						},
+						{
+							"path": "modifyUser/modifyUser",
+							"style": {
+								"navigationBarTitleText": "修改信息"
+							}
+						},
+						{
+							"path": "Login/Login",
+							"style": {
+								"navigationStyle": "custom" 
+							}
+						},
+						{
+							"path": "registerD2/registerD2",
+							"style": {
+								"navigationStyle": "custom" 
+							}
+						}
+					]
+				}
+	]
+}

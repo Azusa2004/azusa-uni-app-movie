@@ -1,0 +1,77 @@
+
+.header[data-v-1468f4a4]{
+	background-color: #0B193F;	
+	position: -webkit-sticky;	
+	position: sticky;
+	top: 0;
+	z-index: -1;
+	background-image: url(../../static/header-bg.png);
+	background-repeat: no-repeat;
+	background-position: top right;
+	background-size: 6.53125rem 7.34375rem;
+}
+.header2[data-v-1468f4a4]{
+		height: 6.25rem;
+		display: flex;
+		align-items: center;
+}
+
+
+.header2[data-v-6808f5eb]{
+		height: 6.25rem;
+		display: flex;
+		align-items: center;
+}
+.mallmain[data-v-6808f5eb]{
+		width: 21.59375rem;
+		padding: 0.9375rem 0.9375rem;
+}
+.movieTicket[data-v-6808f5eb]{
+		width: 21.59375rem;
+		height: 8.375rem;
+		background-image: url(../../static/ticket-bg.png);
+		background-size: 21.59375rem 8.375rem;
+		margin-bottom: 0.9375rem;
+}
+.movieTicket-top[data-v-6808f5eb]{
+		width: 19.71875rem;
+		height: 3.5625rem;
+		padding-top: 0.9375rem;
+		margin: 0 0.9375rem 0 0.9375rem;
+		border-bottom: 1.5px dashed rgba(255, 255, 255,0.2);
+		display: flex;
+		justify-content: space-between;
+}
+.movieName[data-v-6808f5eb]{
+		font-size: 0.9375rem;
+		color: white;
+}
+.cinemaName[data-v-6808f5eb]{
+		width: 16.875rem;
+		font-size: 0.75rem;
+		color: #ffffff;
+		opacity: 0.47;
+		margin-top: 0.46875rem;
+		overflow: hidden;
+		 white-space: nowrap; 
+		 text-overflow: ellipsis;
+}
+.movieTicket-bottu[data-v-6808f5eb]{
+		height: 2.03125rem;
+		padding: 0.9375rem 0.9375rem;
+}
+.movieTicket-bottu-img[data-v-6808f5eb]{
+		width: 0.9375rem;
+		height: 0.9375rem;
+}
+.movieTicket-bottu-text[data-v-6808f5eb]{
+		font-size: 0.75rem;
+		color: white;
+		margin-right: 0.3125rem;
+}
+.movieTicket-bottu-number[data-v-6808f5eb]{
+		font-size: 0.9375rem;
+		color: #f3b438;
+		font-weight: 550;
+		letter-spacing: 8px;
+}

@@ -1,0 +1,59 @@
+
+.header2.data-v-6808f5eb{
+		height: 200rpx;
+		display: flex;
+		align-items: center;
+}
+.mallmain.data-v-6808f5eb{
+		width: 691rpx;
+		padding: 30rpx 30rpx;
+}
+.movieTicket.data-v-6808f5eb{
+		width: 691rpx;
+		height: 268rpx;
+		background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgEAAAEGCAYAAAD8C0ZEAAAIc0lEQVR4nO3dv6tWhx3H8Y9Wrak/kkXEreLt0KZYcUlKA0GkEEy2FFqnLv0D2kUd3apZ2r3OtUOzGckiLimhi9gLaTtccUzFJfFHNDq0HDkXbi/3en88wnPv83m9RhXvefhe+L45z/mxY9+Rd7NO+5O8n+RUkhNJjiZ5Pcl31/sfAACv1LdJvk5yN8ntJDeTfJLk0Xp+yHoiYC7J+SRnk+wzOwDY0h4nuZrkcpKFlx3ozpf83d4kl5J8keQ3AgAAtoV9497+YgyBvasd9GoRcCzJ5+MZgD1mDgDbzrC/z437fG6lg18pAk4m+dv4vT8AsL0N+/yzcb+/NAKGUvg0yWEDB4CZcXjc7/93RmBpBLyW5K9JDpk5AMycYb9/PO77F5ZGwMUkPzFzAJhZx8d9/8LiLYLDhYD/SrLb3AFgpj1P8qPh9sHFMwEXBAAAVNg97v0XZwIOJPnScwAAoMbwQKEjw5mAMwIAAKoMe//MEAGnzR0A6pzeOV4pCAB0Ob5zvDMAAOhybIiAg4YOAHUO7vSCIACotOdlrxIGAGaYCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAErtSrI3yetJjiY5keRUkveT7PdLAQAz4VGST5LcTHI7yd0kX+/Yd+TdlT7cviRnk5xPMmf+ALAtLSS5nORqksfLP8BqXwcM//BKkjfHEHhq9gCwbQx7+8K4x6+sFABZxzUBz5J8lOSnY00AAFvbnXFvXx73+KrWe2Hg8P3BO0luGTwAbFnDnv7ZuLfXtJG7A+4lec8ZAQDYkhbGPX1vvQe30VsE7yf5MMkT8weALWPYy78Y9/S6beY5AfNJLpo7AGwZw17+x0YPZrVbBNeyO8k/3T4IAFM3XAj4wyTPN3ogm31i4PCDLpk7AEzdpc0EQCY4E5DxgUJfJjlg/gAwFQ+THFntOQBrmeTdAcMPvG7mADA11zcbAHkFLxC6Ye4AMDUT7eFJI2De3AFgaibaw5NGwB1zB4CpmWgPTxoBD8wdAKZmoj08aQQAANvUpBFw0OABYGom2sOTRsAxcweAqZloD08aAcfNHQCmZqI9PGkEnDZ3AJiaifbwJBHwvSRnzB0ApubM+Bj/TZkkAs56bwAATNWwh3+12QPYbAQMrxI+b+4AMHUXxr28YZuNgN8m+YG5A8DUzSX53WYOYjOvEh6uRPx8vCYAAJi+J0ne3ui7BDZ6JuBQko8FAABsKa+N+/nQRg5qIxFwOMmn42kHAGBrmRv39OFXHQHDVwCfJTlp4ACwZZ0c9/W6HiK0VgQMVxueS/J3ZwAAYFuYG/f2ubXuGvjOngPfX+nPh+8Wfp3kz0l+mWSXuQPAtjHs7Z+PzxAYLhr8d5Lnyw9+uDtgqIQ3khxNciLJqSQfJNlv1gAwEx4luZbkZpLbSe4m+WqIgP+aLwD0mfQFQgDANiUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKCUCAKCUCACAUiIAAEqJAAAoJQIAoJQIAIBSIgAASokAACglAgCglAgAgFIiAABKiQAAKLXrP3/69lmSPX4BAKDKs+FMwAMzB4A6D4YIuGPuAFDnzhAB8+YOAHXmhwi4Ye4AUOfGEAHXkzw2ewCo8c2w/4cIeJjkL+YOADWuDvt/8TkBv0/y3OwBYOYN+/5SljwsaLhD4A/mDgAz749JFrLsiYEX3SkAADNtftz3LyyNgCdJPkxy3/wBYObcH/f8N4sfbPm7A4bTA+8luWf2ADAz7o37fWHpB1rpBUK3krzjqwEAmAnz416/tfzDrPYWwaEU3kry0fCCAb8DALDtPBv3+FvLzwAsetmrhJ8mOZ/kzSRXln6HAABsWU/Gvf3jcY8/Xe1Adzy89vZ6P8T+JB8kOZXkRJKjSd5IstvvAQBMxXDP/1dJ7ia5neRmkmtJHq15NEn+B82rtWKOzrAKAAAAAElFTkSuQmCC);
+		background-size: 691rpx 268rpx;
+		margin-bottom: 30rpx;
+}
+.movieTicket-top.data-v-6808f5eb{
+		width: 631rpx;
+		height: 114rpx;
+		padding-top: 30rpx;
+		margin: 0 30rpx 0 30rpx;
+		border-bottom: 1.5px dashed rgba(255, 255, 255,0.2);
+		display: flex;
+		justify-content: space-between;
+}
+.movieName.data-v-6808f5eb{
+		font-size: 30rpx;
+		color: white;
+}
+.cinemaName.data-v-6808f5eb{
+		width: 540rpx;
+		font-size: 24rpx;
+		color: #ffffff;
+		opacity: 0.47;
+		margin-top: 15rpx;
+		overflow: hidden;
+		 white-space: nowrap; 
+		 text-overflow: ellipsis;
+}
+.movieTicket-bottu.data-v-6808f5eb{
+		height: 65rpx;
+		padding: 30rpx 30rpx;
+}
+.movieTicket-bottu-img.data-v-6808f5eb{
+		width: 30rpx;
+		height: 30rpx;
+}
+.movieTicket-bottu-text.data-v-6808f5eb{
+		font-size: 24rpx;
+		color: white;
+		margin-right: 10rpx;
+}
+.movieTicket-bottu-number.data-v-6808f5eb{
+		font-size: 30rpx;
+		color: #f3b438;
+		font-weight: 550;
+		letter-spacing: 8px;
+}

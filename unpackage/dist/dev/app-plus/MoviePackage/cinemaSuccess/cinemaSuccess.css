@@ -1,0 +1,51 @@
+
+.header[data-v-2e1e2ca2]{
+	background-color: #0B193F;	
+	position: -webkit-sticky;	
+	position: sticky;
+	top: 0;
+	z-index: 1;
+	background-image: url(../../static/header-bg.png);
+	background-repeat: no-repeat;
+	background-position: top right;
+	background-size: 6.53125rem 7.34375rem;
+}
+.header2[data-v-2e1e2ca2]{
+		height: 6.25rem;
+		display: flex;
+		align-items: center;
+}
+.SuccessMain[data-v-2e1e2ca2]{
+		height: 100vh;
+		background-color: #0B193F;
+		padding: 0 0.9375rem;
+}
+.Success-back[data-v-2e1e2ca2]{
+		width: 19.71875rem;
+		height: 27.875rem;
+		padding: 0.9375rem;
+		background-image: url(../../static/tickets-bg.png);
+		background-size: 21.59375rem 29.75rem;
+}
+.Success-top[data-v-2e1e2ca2]{
+		height: 6.875rem;
+}
+.Success-botto[data-v-2e1e2ca2]{
+		height: 16.875rem;
+		margin-top: 3.75rem;
+}
+.Success-botto-top[data-v-2e1e2ca2]{
+		height: 9.375rem;
+		border-bottom: 1.5px dashed #ccc;
+		display: flex;
+}
+.Success-botto-botto[data-v-2e1e2ca2]{
+		display: flex;
+		padding: 0.9375rem 0;
+}
+.convert[data-v-2e1e2ca2]{
+		font-size: 1.5rem;
+		font-weight: 550;
+		letter-spacing: 0.40625rem;
+		color: #000018;
+}

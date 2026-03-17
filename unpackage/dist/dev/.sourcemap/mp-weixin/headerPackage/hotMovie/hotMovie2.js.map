@@ -1,0 +1,1 @@
+{"version":3,"file":"hotMovie2.js","sources":["../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/RTovWENYL01vdmllLXVuaUFwcC9oZWFkZXJQYWNrYWdlL2hvdE1vdmllL2hvdE1vdmllLnZ1ZQ"],"sourcesContent":["import MiniProgramPage from 'E:/XCX/Movie-uniApp/headerPackage/hotMovie/hotMovie.vue'\nwx.createPage(MiniProgramPage)"],"names":["MiniProgramPage"],"mappings":";;AACA,GAAG,WAAWA,SAAe,eAAA;"}

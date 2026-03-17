@@ -1,0 +1,1 @@
+<swiper indicator-dots="{{true}}" autoplay="{{true}}" interval="{{3000}}" duration="{{600}}" circular="{{true}}" class="{{['ImageSwiper', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{b}}"><swiper-item wx:for="{{a}}" wx:for-item="item" wx:key="b"><image src="{{item.a}}" mode="" class="imageData"></image></swiper-item></swiper>

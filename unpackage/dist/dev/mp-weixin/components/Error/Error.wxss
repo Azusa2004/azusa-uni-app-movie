@@ -1,0 +1,17 @@
+
+.error-toast.data-v-5d1b555f {
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+}
+.error-content.data-v-5d1b555f {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20rpx 40rpx;
+  border-radius: 10rpx;
+}
+.error-text.data-v-5d1b555f {
+  color: white;
+  font-size: 28rpx;
+}

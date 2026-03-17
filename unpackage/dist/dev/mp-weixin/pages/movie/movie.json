@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "影院",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "navigate": "../../components/navigate/navigate",
+    "position": "../../components/position/position",
+    "up-loadmore": "../../uni_modules/uview-plus/components/u-loadmore/u-loadmore"
+  }
+}

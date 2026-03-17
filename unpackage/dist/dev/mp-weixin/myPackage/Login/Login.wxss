@@ -1,0 +1,17 @@
+
+.inputphone{
+		width: 670rpx;
+		height: 96rpx;
+		border: 1px solid #ccc;
+		border-radius: 20rpx;
+}
+.registerButton{
+		 	background-color: #07C160;
+		 	width: 550rpx;
+		 	height: 80rpx;
+		 	border-radius: 90rpx;
+		 	font-size: 28rpx;
+		 	letter-spacing:2rpx;
+		 	color: white;
+		 	line-height: 80rpx;
+}

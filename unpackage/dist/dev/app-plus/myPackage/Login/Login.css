@@ -1,0 +1,35 @@
+
+.error-toast[data-v-5d1b555f] {
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+}
+.error-content[data-v-5d1b555f] {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 0.625rem 1.25rem;
+  border-radius: 0.3125rem;
+}
+.error-text[data-v-5d1b555f] {
+  color: white;
+  font-size: 0.875rem;
+}
+
+
+.inputphone{
+		width: 20.9375rem;
+		height: 3rem;
+		border: 1px solid #ccc;
+		border-radius: 0.625rem;
+}
+.registerButton{
+		 	background-color: #07C160;
+		 	width: 17.1875rem;
+		 	height: 2.5rem;
+		 	border-radius: 2.8125rem;
+		 	font-size: 0.875rem;
+		 	letter-spacing:0.0625rem;
+		 	color: white;
+		 	line-height: 2.5rem;
+}

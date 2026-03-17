@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "navigate": "../../components/navigate/navigate",
+    "position": "../../components/position/position",
+    "home-banner": "../../components/home-banner/home-banner",
+    "headerview": "../../components/headerview/headerview",
+    "up-loadmore": "../../uni_modules/uview-plus/components/u-loadmore/u-loadmore"
+  }
+}

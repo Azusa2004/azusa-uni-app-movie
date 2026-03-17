@@ -1,0 +1,134 @@
+
+.error-toast[data-v-5d1b555f] {
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+}
+.error-content[data-v-5d1b555f] {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 0.625rem 1.25rem;
+  border-radius: 0.3125rem;
+}
+.error-text[data-v-5d1b555f] {
+  color: white;
+  font-size: 0.875rem;
+}
+
+
+.header[data-v-4b5b9e03]{
+	 background-color: #0B193F;	
+	 position: -webkit-sticky;	
+	 position: sticky;
+	 top: 0;
+	 z-index: 1;
+	 background-image: url(../../static/header-bg.png);
+	 background-repeat: no-repeat;
+	 background-position: top right;
+	 background-size: 6.53125rem 7.34375rem;
+}
+.header2[data-v-4b5b9e03]{
+	 	height: 6.25rem;
+	 	display: flex;
+	 	align-items: center;
+}
+.cinemaMain[data-v-4b5b9e03]{
+		padding: 0 0.9375rem 0.9375rem 0.9375rem;
+		background-color: #0B193F;
+}
+.seats-container[data-v-4b5b9e03]{
+		display: flex;
+		flex-wrap: nowrap;
+}
+.cinemaMainSelect[data-v-4b5b9e03]{
+		width: 21.59375rem;
+		height: 15.625rem;
+		overflow: auto;
+		margin-bottom: 0.9375rem;
+}
+.cinemaseat[data-v-4b5b9e03]{
+		flex: 0 0 2.9375rem;
+		height: 1.6875rem;
+		border: 1.5px solid white;
+		border-radius: 0.3125rem;
+		margin: 0.625rem 0.625rem 0 0;
+		color: white;
+		text-align: center;
+		line-height: 1.6875rem;
+}
+.cinemaMainbottom[data-v-4b5b9e03]{
+		width: 21.59375rem;
+		height: 3.125rem;
+		display: flex;
+		align-items: center;
+}
+.cinemaSelectmin[data-v-4b5b9e03]{
+		width: 1.09375rem;
+		height: 1.09375rem;
+		border-radius: 5px;
+}
+.cinemaSelectText[data-v-4b5b9e03]{
+		font-size: 0.75rem;
+		color: white;
+		margin-left: 0.3125rem;
+}
+.cinemaMainimg[data-v-4b5b9e03]{
+		display: flex;
+		margin-right: 0.78125rem;
+}
+.cinemaBottom[data-v-4b5b9e03]{
+		width: 21.59375rem;
+		padding: 0.9375rem 0.9375rem 0 0.9375rem;
+}
+.MovieName[data-v-4b5b9e03]{
+		font-size: 1.25rem; 
+		font-weight: 600;
+}
+.cinemaName[data-v-4b5b9e03]{
+		margin-top: 0.625rem;
+		font-size: 0.75rem;
+		color: #141337;
+		font-weight: 550;
+}
+.Movietotal[data-v-4b5b9e03]{
+		width: 18.78125rem;
+		height: 3.75rem;
+		padding: 0 0.9375rem 0.9375rem 0.9375rem;
+		margin: 0.9375rem 0.9375rem 0 0.9375rem;
+		border: 0.04688rem solid #cccccc;
+		border-radius: 0.25rem;
+		display: flex;
+		justify-content: space-between;
+}
+.total[data-v-4b5b9e03]{
+		width: 5.3125rem;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+}
+.cinemaNametag[data-v-4b5b9e03]{
+		width: 1.875rem;
+		height: 1.25rem;
+		background-color: #4073ff;
+		font-size: 0.71875rem;
+		color: white;
+		text-align: center;
+		line-height: 1.25rem;
+		border-radius: 0.25rem;
+		margin-right: 0.3125rem;
+}
+.sellCinema[data-v-4b5b9e03]{
+		background-color: crimson;
+}
+.buyCinema[data-v-4b5b9e03]{
+		background-color: #4073ff;
+		color: rgba(255, 255,255, 0);
+		background-image: url(../../assets/校验_check-one.10082900.png);
+		background-size: 1.5625rem 1.5625rem;
+		background-repeat: no-repeat;
+		background-position: 50%;
+}
+.element[data-v-4b5b9e03] {
+	    visibility: hidden;  /* 元素隐藏，但占据空间 */
+}

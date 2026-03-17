@@ -1,0 +1,13 @@
+
+.catalogue.data-v-8ba7cf40{
+	 	height: 120rpx;
+	 	margin: 0 35rpx;
+	 	display: flex;
+	 	align-items: center;
+	 	justify-content: space-between;
+	 	border-bottom: 2rpx solid #ccc;
+}
+.catalogueImg.data-v-8ba7cf40{
+	 	width: 46rpx;
+	 	height: 46rpx;
+}

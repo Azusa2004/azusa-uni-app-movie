@@ -1,0 +1,1 @@
+<map latitude="{{a}}" longitude="{{b}}" markers="{{c}}" class="{{['map', 'data-v-efb5d94e', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{d}}"></map>

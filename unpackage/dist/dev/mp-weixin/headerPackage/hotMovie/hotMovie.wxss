@@ -1,0 +1,13 @@
+
+.buyButto.data-v-c9b92e73{
+		width: 170rpx;
+		height: 56rpx;
+		background-color: #4073ff;
+		border-radius: 8px;
+		text-align: center;
+		line-height: 56rpx;
+		color: white;
+		font-size: 25rpx;
+		margin-top: 48rpx;
+}
+	       

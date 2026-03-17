@@ -1,0 +1,17 @@
+
+.moviemain{
+		width: 691rpx;
+		height: 135rpx;
+		background-color: white;
+		margin-top: 30rpx;
+		display: flex;
+		align-items: center;
+		padding: 0 30rpx;
+}
+.MoveiName{
+		margin: 0 0 0 25rpx;
+}
+.bottomColor{
+			 padding-bottom: calc(20rpx + env(safe-area-inset-bottom));
+}
+

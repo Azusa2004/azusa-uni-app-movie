@@ -1,0 +1,1 @@
+{"version":3,"file":"navigate.js","sources":["../../HBuilderX/plugins/uniapp-cli-vite/uniComponent:/RTovWENYL01vdmllLXVuaUFwcC9jb21wb25lbnRzL25hdmlnYXRlL25hdmlnYXRlLnZ1ZQ"],"sourcesContent":["import Component from 'E:/XCX/Movie-uniApp/components/navigate/navigate.vue'\nwx.createComponent(Component)"],"names":[],"mappings":";;;;;;;;;;AACA,GAAG,gBAAgB,SAAS;"}

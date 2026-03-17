@@ -1,0 +1,23 @@
+
+.header2.data-v-c81a0e3e{
+		 height: 270rpx;
+		 padding:  0 30rpx 30rpx 30rpx;
+		 display: flex;
+		 flex-direction: column;
+		justify-content: space-between;
+}
+.Age.data-v-c81a0e3e{
+	 	width: 100rpx;
+	 	height: 44rpx;
+	 	border: solid 1.5px #d1dfff;
+	 	border-radius: 8rpx;
+	 	font-size: 23rpx;
+	 	font-weight: 550;
+	 	text-align: center;
+	 	line-height: 44rpx;
+	 	margin: 15rpx 15rpx 0 0;
+}
+.screenMoveiMain.data-v-c81a0e3e{
+		 width: 691rpx;
+		 padding: 40rpx 30rpx;
+}

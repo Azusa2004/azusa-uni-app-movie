@@ -1,0 +1,51 @@
+
+.cinemaimg.data-v-77aa4935{
+		width: 691rpx !important;
+		background-size: cover;
+		background-position: 0 -60rpx;
+		padding: 0 30rpx;
+		height: 300rpx;
+		background-color: black;
+		position: -webkit-sticky;
+		position: sticky;
+		z-index: 1;
+		top: 0;
+		display: block;
+}
+.cinemaName.data-v-77aa4935{
+		 width: 691rpx;
+		 padding: 0 30rpx;
+		 margin: 30rpx 0 60rpx 0;
+}
+.cinemaMark.data-v-77aa4935{
+		width: 651rpx;
+		padding: 0 50rpx;
+		margin: 30rpx 0;
+		display: flex;
+		justify-content: space-between;
+}
+.padd.data-v-77aa4935{
+		margin: 0 30rpx;
+		background-color: aquamarine;
+}
+.finance.data-v-77aa4935{
+	width: 37rpx; 
+	height: 37rpx;	
+	margin-right: 5rpx;
+}
+.Mintext.data-v-77aa4935{
+		font-size: 24rpx;
+		color: #8890a3;
+		margin-top: 15rpx;
+}
+.Age.data-v-77aa4935{
+		width: 100rpx;
+		height: 44rpx;
+		border: solid 1.5px #d1dfff;
+		border-radius: 8rpx;
+		font-size: 23rpx;
+		font-weight: 550;
+		text-align: center;
+		line-height: 44rpx;
+		margin: 15rpx 15rpx 0 0;
+}
